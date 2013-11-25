@@ -16,6 +16,7 @@ public class GameEngine {
 		}
 
 		public boolean cheat() {
+        // Some comment
 			int index = engine.gameWord.indexOf("*");
 			usedCheats++;
 			boolean canCheat = usedCheats <= maxCheats;
