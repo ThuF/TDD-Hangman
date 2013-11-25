@@ -7,7 +7,7 @@ public class GameEngine {
 		private int usedCheats;
 
 		public CheatEngine(GameEngine engine) {
-			this(engine, Integer.MAX_VALUE);
+			this(engine, Integer.MIN_VALUE);
 		}
 
 		public CheatEngine(GameEngine engine, int maxCheats) {
