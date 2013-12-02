@@ -7,11 +7,7 @@ import org.junit.Test;
 
 import com.thuf.hangman.GameEngine.CheatEngine;
 
-public class TestGameEngine {
-    // TODO TEXT ADDED Above!
-    // TODO EDITED!!!
-    // TODO TEXT ADDED BELOW!
-    
+public class TestGameEngine {    
 	private GameEngine engine;
 	private String word = "Hangman";
 
