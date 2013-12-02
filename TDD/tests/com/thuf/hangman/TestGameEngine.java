@@ -8,8 +8,6 @@ import org.junit.Test;
 import com.thuf.hangman.GameEngine.CheatEngine;
 
 public class TestGameEngine {
-    // TODO EDITED!!!
-    
 	private GameEngine engine;
 	private String word = "Hangman";
 
